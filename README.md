@@ -1,4 +1,5 @@
-### Hi there 👋
+### 👋 Hi there, my name is Guillermo MArtino
+
 
 I help companies reach their goals with my soft skills and technical skils.
 
