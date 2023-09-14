@@ -1,6 +1,7 @@
+![banner](images/github-header-image(4).png)
 # 👋 Hi there, my name is Guillermo Martino
 ---
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+person+very+curious;I+like+to+learn+all+the+time;Hobbies+travel+diving+adventures;mate+sports+learn...)](https://git.io/typing-svg)
 
 I collaborate with companies to help them achieve their goals with my soft and technical skills.
 
