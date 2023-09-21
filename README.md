@@ -27,6 +27,7 @@ I collaborate with companies to help them achieve their goals with my soft and t
 ## Where to find me?
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-Guillermo_Martino-0077B5?style-for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/guillermo-martino/)
+[![GitLab](https://img.shields.io/badge/Gitlab-gsmartino-0077B5?style-for-the-badge&logo=GitLab&logoColor=orange&labelColor=101010)](https://gitlab.com/gsmartino)
 
 <!--
 **gsmartino23/gsmartino23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
